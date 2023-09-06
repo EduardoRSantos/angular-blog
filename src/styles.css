@@ -3,9 +3,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #141414;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
-    
+}
+
+body {
+
+    background-image: url('https://teoriageek.com.br/wp-content/uploads/2022/03/Destaque-Elden-Ring.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
 }

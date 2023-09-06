@@ -1,0 +1,22 @@
+
+
+.big-card__title > h1 {
+
+}
+
+
+
+.big-card__description > p > a{
+    
+}
+
+@media screen and (max-width: 1149px) {
+    
+    .big-card__description{
+        background-color:#100F0D;
+        color: white;
+        opacity: 0.6;
+        border-radius: 5px;
+    }
+
+}
